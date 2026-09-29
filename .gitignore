@@ -1,5 +1,2 @@
-bin/
-obj/
-*.depend
-*.layout
-*.cbp_user
+.vscode/
+.DS_Store
